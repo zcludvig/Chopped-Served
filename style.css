@@ -14,18 +14,18 @@ body{
 
 .carousel-item{
     width: 100%;
-}
-
-.innerone{
     max-height: 600px;
 }
 
+.innerone{
+
+}
+
 .innertwo{
-    max-height: 800px;
+
 }
 
 .innerthree{
-    max-height: 500px;
 }
 
 .maintext{
