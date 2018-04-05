@@ -155,10 +155,11 @@ p{
     align-self: center;
     background-color: rgba(255,255,255,0.8) ;
     box-shadow: 0px 0px 50px -10px ;
+    transition: background-color 500ms ease-in-out;
 }
 
 .words:hover{
-    background-color: rgba(255,255,255,1.0) ;
+    background-color: rgba(255,255,255,1.0);
 }
 
 
@@ -212,7 +213,6 @@ p{
     
 }
 
-
 /*TESTIMONIAL*/
 
 .missionbox2{
@@ -231,7 +231,8 @@ p{
     padding: 30px;
     align-self: center;
     background-color: rgba(255,255,255,0.8) ;
-    box-shadow: 0px 0px 40px -20px black;
+    box-shadow: 0px 0px 40px 00px black;
+    transition: background-color 500ms ease-in-out;
 }
 
 .words2:hover{
@@ -310,6 +311,10 @@ p{
     box-shadow: 0px 0px 20px 0px grey;
 
 
+}
+
+.eventp{
+    padding: 15px;
 }
 
 .maintext4{
