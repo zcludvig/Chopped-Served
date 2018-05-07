@@ -195,11 +195,14 @@ p{
 
 .flexem{
     display: flex;
-    flex-wrap: wrap;fle
+    flex-wrap: wrap;
 }
 
 .flexitem{
     margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .eventicon{
@@ -279,11 +282,18 @@ p{
 
 .price{
     font-size: 18px;
+    padding-bottom: 25px;
 }
 
 .menuem{
     display: flex;
     flex-wrap: wrap;
+}
+
+.thesmallprint{
+    font-size: 12px;
+    color: grey;
+    font-weight: 200;
 }
 
 .fakemargins{
